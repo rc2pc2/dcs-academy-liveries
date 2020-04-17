@@ -1,5 +1,5 @@
 # DCS Academy Custom Skins
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rc2pc2/DCSAcademyLiveries?color=VIOLET&label=VERSION%20&logo=Release%20version%20v&style=for-the-badge)](https://github.com/rc2pc2/DCSAcademyLiveries/releases/latest) [![GitHub issues](https://img.shields.io/github/issues/rc2pc2/DCSAcademyLiveries?color=DARK%20yellow&label=TASKS%20%26%20ISSUES&logo=dktai&style=for-the-badge)](https://github.com/rc2pc2/DCSAcademyLiveries/issues)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rc2pc2/DCS-academy-liveries?color=VIOLET&label=VERSION%20&logo=Release%20version%20v&style=for-the-badge)](https://github.com/rc2pc2/DCS-academy-liveries/releases/latest) [![GitHub issues](https://img.shields.io/github/issues/rc2pc2/DCS-academy-liveries?color=DARK%20yellow&label=TASKS%20%26%20ISSUES&logo=dktai&style=for-the-badge)](https://github.com/rc2pc2/DCS-academy-liveries/issues)
 
 ![DCS Academy Logo](https://i.imgur.com/QZW6ePg.png)
 
@@ -39,7 +39,7 @@ This is our first release, version 0.12, indeed.
 ## Download 
 
 #### GitHub (All Releases)
-Please feel free to [use this link](https://github.com/rc2pc2/DCSAcademyLiveries/releases) to download our latest release, or just use the badge with the version number. 
+Please feel free to [use this link](https://github.com/rc2pc2/DCS-academy-liveries/releases) to download our latest release, or just use the badge with the version number. 
 
 
 ## Tasks & Issues
