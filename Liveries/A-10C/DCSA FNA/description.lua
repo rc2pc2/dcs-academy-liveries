@@ -18,8 +18,5 @@ livery = {
 	
 	{"pilot_a10_body", 0, "pilot_a10", false};
     {"pilot_a10_helmet", 0, "hgu55", false};
-
-
 }
-name = "DCSA FNA Custom Skin"
-countries = {"USA"}
+name = "DCSA FNA Huckleberry Skin"
