@@ -166,5 +166,5 @@ livery = {
 
 
 
-name = "DCS Academy Spaghetti's EUROCORPS Fictional livery"
+name = "DCS Academy Kozmo's Ferrari Fictional Livery"
 order     = 918
