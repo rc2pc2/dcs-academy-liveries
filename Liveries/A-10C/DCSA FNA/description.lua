@@ -16,7 +16,7 @@ livery = {
 	{"A-10_Number_Noze_T", 0 ,"empty",true};
 	{"A-10_Number_Wheel", 0 ,"empty",true};
 	
-	{"pilot_a10_body", 0, "pilot_a10", false};
-    {"pilot_a10_helmet", 0, "hgu55", false};
+	{"pilot_a10_body", 0, "pilot_a10", true};
+    {"pilot_a10_helmet", 0, "hgu55", true};
 }
 name = "DCSA FNA Huckleberry Skin"
